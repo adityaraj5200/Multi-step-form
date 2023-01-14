@@ -13,6 +13,6 @@ Made using:
 * React.js
 * VS Code
 
-### Deployment
-I have deployed it on github pages and below is the live link for it.
+## Deployment
+I have deployed it on github pages and below is the live link for it. <br>
 [Multi Step Form](https://adityaraj5200.github.io/Multi-step-form/)

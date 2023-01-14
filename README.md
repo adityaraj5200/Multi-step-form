@@ -7,11 +7,10 @@ The reason why I built it is because I just finished learning React.js and wante
 
 ## Tools and Technologies used
 Made using:
-* HTML
-* CSS
-* JavaScript
 * React.js
+* Material UI
 * VS Code
+
 
 ## Deployment
 I have deployed it on github pages and below is the live link for it. <br>
